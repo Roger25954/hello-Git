@@ -1,1 +1,1 @@
- document.write("New Hello Git!")
+ document.write("Hello Github!")
